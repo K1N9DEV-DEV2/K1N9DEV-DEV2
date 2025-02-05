@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Custom FiveM Framework,etc..**
 
-- 👯 I’m looking to collaborate on SriVerse [SriVerse 2.0](https://discord.gg/sriverse-community-942037499042218084)
+- 👯 I’m looking to collaborate on SriVerse Team [SriVerse 2.0](https://discord.gg/sriverse-community-942037499042218084)
 
 - 💬 Ask me about **QBCore,QBox**
 
